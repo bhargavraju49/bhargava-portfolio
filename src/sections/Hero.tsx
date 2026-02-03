@@ -246,7 +246,7 @@ export default function Hero() {
             {/* Social Links */}
             <div ref={socialsRef} className="flex items-center gap-4 pt-6">
               <a
-                href="https://github.com"
+                href="https://github.com/bhargavraju49"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-lg bg-matter border border-electric/20 flex items-center justify-center text-graymatter hover:text-electric hover:border-electric/50 transition-all duration-300"
@@ -254,7 +254,7 @@ export default function Hero() {
                 <Github className="w-5 h-5" />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/bhargava-penumetcha/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-lg bg-matter border border-electric/20 flex items-center justify-center text-graymatter hover:text-electric hover:border-electric/50 transition-all duration-300"
